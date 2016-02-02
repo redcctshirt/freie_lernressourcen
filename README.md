@@ -1,9 +1,14 @@
-## freie deutschsprachige Lernressourcen
+## freie deutschsprachige Lernressourcen (IT)
 
 ### Action Script
 
 * [ActionScript 1 und 2](http://openbook.rheinwerk-verlag.de/actionscript/)
 * [Einstieg in ActionScript](http://openbook.rheinwerk-verlag.de/actionscript_einstieg/)
+
+### Adobe Photoshop
+
+* [Adobe Photoshop CS4 - Fortgeschrittene Techniken](http://openbook.rheinwerk-verlag.de/photoshop_cs4/)
+* [Adobe Photoshop CS2 professionell](http://openbook.rheinwerk-verlag.de/photoshop_cs2/)
 
 ### Android
 
@@ -57,6 +62,10 @@
 
 * [Lerne X in Y Minuten - Elixir](https://learnxinyminutes.com/docs/de-de/elixir-de/) (CC by-sa)
 
+### FreeBSD
+
+* [Das FreeBSD-Handbuch](https://www.freebsd.org/doc/de_DE.ISO8859-1/books/handbook/)
+
 ### Gambas
  
 * [wikibooks - Gambas](https://de.wikibooks.org/wiki/Gambas) (CC by-sa)
@@ -75,6 +84,10 @@
 
 * [code.makery - GreenfootKara](http://code.makery.ch/library/greenfoot-kara/de/) (CC by) 
 
+### Groovy
+
+* [Groovy für Java-Entwickler](http://examples.oreilly.de/openbooks/pdf_groovyger.pdf) 
+
 ### Haskell
 
 * [Lerne X in Y Minuten - Haskell](https://learnxinyminutes.com/docs/de-de/haskell-de/) (CC by-sa)
@@ -91,6 +104,7 @@
 * [selfhtml - CSS](https://wiki.selfhtml.org/wiki/CSS) (CC by-sa)
 * [wikibooks - Websiteentwicklung: XHTML](https://de.wikibooks.org/wiki/Websiteentwicklung:_XHTML) (CC by-sa)
 * [selfhtml - HTML](https://wiki.selfhtml.org/wiki/HTML) (CC by-sa)
+* [HTML5-Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch)
 
 ### iOS
 
@@ -101,6 +115,9 @@
 
 * [Programmieren in Java: Einführung](http://www.highscore.de/java/einfuehrung/index.html) (CC by-nc-nd)
 * [Programmieren in Java: Aufbau](http://www.highscore.de/java/aufbau/index.html) (CC by-nc-nd)
+* [Java 7 - Mehr als eine Insel](http://openbook.rheinwerk-verlag.de/java7/)
+* [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel/)
+* [
 
 ### Javascript
 
@@ -109,6 +126,11 @@
 * [Lerne X in Y Minuten - Javascript](https://learnxinyminutes.com/docs/de-de/javascript-de/) (CC by-sa)
 * [selfhtml - JavaScript](https://wiki.selfhtml.org/wiki/JavaScript) (CC by-sa)
 * [Webseiten erstellen mit Javascript](http://www.highscore.de/javascript/index.html) (CC by-nc-nd)
+* [JavaScript und AJAX](http://openbook.rheinwerk-verlag.de/javascript_ajax/)
+
+### Joomla
+
+* [Joomla! 1.5](http://openbook.rheinwerk-verlag.de/joomla15/)
 
 ### JSON
 
@@ -117,6 +139,8 @@
 ### Latex
 
 * [Lerne X in Y Minuten - Latex](https://learnxinyminutes.com/docs/de-de/latex-de/) (CC by-sa)
+* [Latex - eine Einführung und ein bisschen mehr ...](https://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf)
+* [Latex - Fortgeschrittene Anwendungen](https://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf)
 
 ### LibreOffice
 
@@ -131,11 +155,26 @@
 * [Wiki der Kubuntu Gemeinschaft](http://wiki.kubuntu-de.org/Hauptseite) (CC by-sa)
 * [ubuntuusers - Wiki](https://wiki.ubuntuusers.de/Startseite/) (CC by-nc-sa)
 * [SelfLinux](http://www.selflinux.org/) (GFDL, GPL)
+* [Linux Wegweiser zur Installation & Konfiguration](http://www.oreilly.de/german/freebooks/linux_install/)
+* [Linux Wegweiser für Netzwerker](http://www.oreilly.de/german/freebooks/linux_netz/)
+* [Linux Netzwerker-Handbuch](http://www.oreilly.de/german/freebooks/linag3ger/)
+* [Linux - Wegweiser zur Installation & Konfiguration](http://www.oreilly.de/german/freebooks/rlinux3ger/linux_wegIVZ.html)
+* [Linux Praxishandbuch](http://www.oreilly.de/german/freebooks/runux5ger/)
+* [Linux-UNIX-Programmierung](http://openbook.rheinwerk-verlag.de/linux_unix_programmierung/)
+* [Shell-Programmierung](http://openbook.rheinwerk-verlag.de/shell_programmierung/)
+* [Ubuntu GNU/Linux 12.04 LTS](http://openbook.rheinwerk-verlag.de/ubuntu/)
+* [Linux](http://openbook.rheinwerk-verlag.de/linux/)
+* [Ubuntu GNU/Linux](http://openbook.rheinwerk-verlag.de/ubuntu_1104/)
+* [Ubuntu GNU/Linux](http://openbook.rheinwerk-verlag.de/ubuntu_1004/)
 
 ### Markdown
 
 * [markdown.de](http://markdown.de/) (CC by-sa)
 * [Lerne X in Y Minuten - Markdown](https://learnxinyminutes.com/docs/de-de/markdown-de/) (CC by-sa)
+
+### MySQL
+
+* [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf)
 
 ### Open Layers
 
@@ -150,6 +189,8 @@
 * [Dirks Logbuch](http://www.deimeke.net/dirk/blog/) (Blog - CC by)
 * [optimox.de](https://www.optimox.de/) (Blog - CC by)
 * [Privacy-Handbuch](https://www.privacy-handbuch.de/handbuch_11.htm) (Public Domain)
+* [Open Source - kurz & gut](http://www.oreilly.de/german/freebooks/os_tb/)
+* [Mit Open Source-Tools Spam & Viren bekämpfen](http://www.oreilly.de/german/freebooks/spamvirger/)
 
 ### Pascal
 
@@ -158,10 +199,14 @@
 ### PHP
 
 * [PHP-Handbuch](https://secure.php.net/manual/de/) (CC by)
+* [PHP PEAR](http://openbook.rheinwerk-verlag.de/php_pear/)
+* [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf)
 
-###
+### Programmierung
 
 * [Objektorientierte Programmierung](http://openbook.rheinwerk-verlag.de/oop/)
+* [Linux-UNIX-Programmierung](http://openbook.rheinwerk-verlag.de/linux_unix_programmierung/)
+* [Shell-Programmierung](http://openbook.rheinwerk-verlag.de/shell_programmierung/)
 
 ### Python
 
@@ -190,14 +235,27 @@
 * [Lerne X in Y Minuten - Ruby](https://learnxinyminutes.com/docs/de-de/ruby-de/) (CC by-sa)
 * [Lerne X in Y Minuten - Ruby Ecosystem](https://learnxinyminutes.com/docs/de-de/ruby-ecosystem-de/) (CC by-sa)
 * [wikibooks - Ruby-Programmierung](https://de.wikibooks.org/wiki/Ruby-Programmierung) (CC by-sa)
+* [Praxiswissen - Ruby](http://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf)
 
 #### Ruby on Rails
 
 * [Rails Girls Guides](https://railsgirlshh.github.io/) (CC by-sa)
+* [Praxiswissen - Ruby on Rails](http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf)
+* [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf)
+* [Ruby on Rails 2](http://openbook.rheinwerk-verlag.de/ruby_on_rails/)
+* [Ruby on Rails 3.2 für Ein-, Um- und Quereinsteiger](http://ruby-auf-schienen.de/3.2/)
+
+### Samba
+
+* [Samba](http://www.oreilly.de/german/freebooks/samba2ger/)
 
 ### Scala
 
 * [Lerne X in Y Minuten - Scala](https://learnxinyminutes.com/docs/de-de/scala-de/) (CC by-sa)
+
+### Scilab
+
+* [Einführung in SCILAB/XCOS5.4](http://www.buech-gifhorn.de/scilab/Einfuehrung.pdf)
 
 ### sed
 
@@ -212,6 +270,27 @@
 
 * [wikibooks - SVG](https://de.wikibooks.org/wiki/SVG) (CC by-sa)
 
+### Unix
+
+* [Wie werde ich UNIX-Guru?](http://openbook.rheinwerk-verlag.de/unix_guru/)
+
+### UML
+
+* [Der moderne Softwareentwicklungsprozess mit UML](http://www.highscore.de/uml/)
+
+### Visual Basic
+
+* [Einstieg in Visual Basic 2010](http://openbook.rheinwerk-verlag.de/einstieg_vb_2010/)
+* [Einstieg in Visual Basic 2012](http://openbook.rheinwerk-verlag.de/einstieg_vb_2012/)
+* [Visual Basic 2008](http://openbook.rheinwerk-verlag.de/visualbasic_2008/)
+
+### Windows
+
+* [Windows Server 2012 R2](http://openbook.rheinwerk-verlag.de/windows_server_2012r2/)
+* [Windows Server 2008 R2](http://openbook.rheinwerk-verlag.de/windows_server_2008/)
+* [Integrationshandbuch Microsoft-Netzwerk](http://openbook.rheinwerk-verlag.de/microsoft_netzwerk/)
+* [VMware und Microsoft Virtual Server](http://openbook.rheinwerk-verlag.de/vmware/)
+
 ### Yaml
 
 * [Lerne X in Y Minuten - yaml](https://learnxinyminutes.com/docs/de-de/yaml-de/) (CC by-sa)
@@ -219,6 +298,11 @@
 ### Sonstiges
 
 * [IT-Handbuch für Fachinformatiker](http://openbook.rheinwerk-verlag.de/it_handbuch/) 
+* [Sicherheit im Internet, 2. Auflage](http://www.oreilly.de/german/freebooks/sii2ger/)
+* [Sicherheit im Internet, 3. Auflage](http://examples.oreilly.de/openbooks/pdf_sii3ger.pdf)
+* [Das Praxisbuch HDR-Fotografie](http://openbook.rheinwerk-verlag.de/hdr_fotografie/)
+* [Excel 2007 - Das umfassende Handbuch](http://openbook.rheinwerk-verlag.de/excel_2007/)
+* [Dreamweaver 8](http://openbook.rheinwerk-verlag.de/dreamweaver8/)
 
 ## englische Sammlungen
 
