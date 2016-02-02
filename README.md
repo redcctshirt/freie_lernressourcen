@@ -117,7 +117,6 @@
 * [Programmieren in Java: Aufbau](http://www.highscore.de/java/aufbau/index.html) (CC by-nc-nd)
 * [Java 7 - Mehr als eine Insel](http://openbook.rheinwerk-verlag.de/java7/)
 * [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel/)
-* [
 
 ### Javascript
 
