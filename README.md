@@ -86,7 +86,7 @@
 
 ### Groovy
 
-* [Groovy für Java-Entwickler](http://examples.oreilly.de/openbooks/pdf_groovyger.pdf) 
+* [Groovy für Java-Entwickler](http://examples.oreilly.de/openbooks/pdf_groovyger.pdf) (pdf)
 
 ### Haskell
 
@@ -138,8 +138,8 @@
 ### Latex
 
 * [Lerne X in Y Minuten - Latex](https://learnxinyminutes.com/docs/de-de/latex-de/) (CC by-sa)
-* [Latex - eine Einführung und ein bisschen mehr ...](https://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf)
-* [Latex - Fortgeschrittene Anwendungen](https://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf)
+* [Latex - eine Einführung und ein bisschen mehr ...](https://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf) (pdf)
+* [Latex - Fortgeschrittene Anwendungen](https://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf) (pdf)
 
 ### LibreOffice
 
@@ -173,7 +173,7 @@
 
 ### MySQL
 
-* [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf)
+* [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) (pdf)
 
 ### Open Layers
 
@@ -199,7 +199,7 @@
 
 * [PHP-Handbuch](https://secure.php.net/manual/de/) (CC by)
 * [PHP PEAR](http://openbook.rheinwerk-verlag.de/php_pear/)
-* [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf)
+* [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) (pdf)
 
 ### Programmierung
 
@@ -212,11 +212,21 @@
 * [Programmiereinführung mit Python](https://opentechschool.github.io/python-beginners/de/index.html) (CC by-sa)
 * [Lerne X in Y Minuten - Python](https://learnxinyminutes.com/docs/de-de/python-de/) (CC by-sa)
 * [wikibooks - Python unter Linux](https://de.wikibooks.org/wiki/Python_unter_Linux) (CC by-sa)
+* [Python, Programmieren macht Spaß](http://www.thomas-guettler.de/vortraege/python/einfuehrung.html#link_25)
+* [Python-Kurs](http://www.python-kurs.eu/index.php)
+* [Das Python-Tutorial](https://py-tutorial-de.readthedocs.org/de/python-3.3/index.html)
+* [Wie ein Informatiker denken lernen ... mit Python](http://python4kids.net/how2think/index.htm)
+* [Das Python-Tutorium](http://starship.python.net/crew/gherman/publications/tut-de/tut-de-21.pdf) (pdf)
+* [Programmieren mit Python und Glade](http://www.florian-diesch.de/doc/python-und-glade/online/index.html) 
 
 #### Django
 
 * [Django Workshop](http://www.django-workshop.de/) (CC by-sa)
 * [django-marcador Tutorial](http://django-marcador.keimlink.de/de/) (CC by-sa)
+
+#### pygame
+
+* [Pygame-Tutorial](https://www.spieleprogrammierer.de/wiki/Pygame-Tutorial) (CC by-sa)
 
 ### R
 
@@ -234,13 +244,13 @@
 * [Lerne X in Y Minuten - Ruby](https://learnxinyminutes.com/docs/de-de/ruby-de/) (CC by-sa)
 * [Lerne X in Y Minuten - Ruby Ecosystem](https://learnxinyminutes.com/docs/de-de/ruby-ecosystem-de/) (CC by-sa)
 * [wikibooks - Ruby-Programmierung](https://de.wikibooks.org/wiki/Ruby-Programmierung) (CC by-sa)
-* [Praxiswissen - Ruby](http://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf)
+* [Praxiswissen - Ruby](http://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf) (pdf)
 
 #### Ruby on Rails
 
 * [Rails Girls Guides](https://railsgirlshh.github.io/) (CC by-sa)
-* [Praxiswissen - Ruby on Rails](http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf)
-* [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf)
+* [Praxiswissen - Ruby on Rails](http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf) (pdf)
+* [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf) (pdf)
 * [Ruby on Rails 2](http://openbook.rheinwerk-verlag.de/ruby_on_rails/)
 * [Ruby on Rails 3.2 für Ein-, Um- und Quereinsteiger](http://ruby-auf-schienen.de/3.2/)
 
@@ -254,7 +264,7 @@
 
 ### Scilab
 
-* [Einführung in SCILAB/XCOS5.4](http://www.buech-gifhorn.de/scilab/Einfuehrung.pdf)
+* [Einführung in SCILAB/XCOS5.4](http://www.buech-gifhorn.de/scilab/Einfuehrung.pdf) (pdf)
 
 ### sed
 
@@ -298,7 +308,7 @@
 
 * [IT-Handbuch für Fachinformatiker](http://openbook.rheinwerk-verlag.de/it_handbuch/) 
 * [Sicherheit im Internet, 2. Auflage](http://www.oreilly.de/german/freebooks/sii2ger/)
-* [Sicherheit im Internet, 3. Auflage](http://examples.oreilly.de/openbooks/pdf_sii3ger.pdf)
+* [Sicherheit im Internet, 3. Auflage](http://examples.oreilly.de/openbooks/pdf_sii3ger.pdf) (pdf)
 * [Das Praxisbuch HDR-Fotografie](http://openbook.rheinwerk-verlag.de/hdr_fotografie/)
 * [Excel 2007 - Das umfassende Handbuch](http://openbook.rheinwerk-verlag.de/excel_2007/)
 * [Dreamweaver 8](http://openbook.rheinwerk-verlag.de/dreamweaver8/)
