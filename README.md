@@ -9,10 +9,16 @@
 
 * [Adobe Photoshop CS4 - Fortgeschrittene Techniken](http://openbook.rheinwerk-verlag.de/photoshop_cs4/)
 * [Adobe Photoshop CS2 professionell](http://openbook.rheinwerk-verlag.de/photoshop_cs2/)
+* [Lightroom-3-Praxis - Fotoworkflow mit Adobe Photoshop Lightroom 3](https://www.dpunkt.de/ebooks_files/free/4084.pdf) (pdf)
 
 ### Android
 
 * [Android - Grundlagen und Programmierung](http://www.dpunkt.de/ebooks_files/free/3436.pdf) (pdf)
+* [Android 2 - Grundlagen und Programmierung](http://dpunkt.de/openbooks/3540.pdf) (pdf)
+
+### APM
+
+* [Der APM-Guide - zu »APM – Agiles Projektmanagement«](http://dpunkt.de/openbooks/5392.pdf) (pdf)
 
 ### Arduino
 
@@ -25,6 +31,7 @@
 ### Blender
 
 * [wikibooks - Blender Dokumentation](https://de.wikibooks.org/wiki/Blender_Dokumentation) (CC by-sa)
+* [Das Blender-Buch](http://dpunkt.de/openbooks/4023.pdf) (pdf)
 
 ### C
 
@@ -274,6 +281,10 @@
 
 * [Das SQL*Plus Tutorial](http://www.dieletztedomain.de/das-sqlplus-tutorial/) (CC by)
 * [wikibooks - Einführung in SQL](https://de.wikibooks.org/wiki/Einf%C3%BChrung_in_SQL) (CC by-sa)
+
+### Squid
+
+* [Squid - Administrationshandbuch zum Proxyserver](http://www.squid-handbuch.de/hb/)
 
 ### SVG
 
