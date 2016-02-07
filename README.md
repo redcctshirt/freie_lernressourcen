@@ -16,6 +16,13 @@
 * [Android - Grundlagen und Programmierung](http://www.dpunkt.de/ebooks_files/free/3436.pdf) (pdf)
 * [Android 2 - Grundlagen und Programmierung](http://dpunkt.de/openbooks/3540.pdf) (pdf)
 
+### Apache
+
+* [Dokumentation zum Apache HTTP Server Version 2.2](https://httpd.apache.org/docs/2.2/de/)
+* [IT-Handbuch für Fachinformatiker - Der Webserver Apache](http://openbook.rheinwerk-verlag.de/it_handbuch/kap_13_lamp_002.html)
+* [ubuntuusers - Apache](https://wiki.ubuntuusers.de/Apache/)
+* [Installation und Einrichtung eines Webservers im gesicherten Intranet](http://www.leinhos-heinke.de/Fiedler_Jens_Webserver_im_Intranet_v2.pdf) (pdf)
+
 ### APM
 
 * [Der APM-Guide - zu »APM – Agiles Projektmanagement«](http://dpunkt.de/openbooks/5392.pdf) (pdf)
@@ -64,6 +71,10 @@
 
 * [code.makery - Hello Dart: Einführung in die Programmierung](http://code.makery.ch/library/hello-dart/de/) (CC by)
 * [code.makery - Dart Kanban - Die bessere Todo-Liste](http://code.makery.ch/library/dart-kanban/de/) (CC by)
+
+### Drupal
+
+* [Drupal - Benutzerhandbuch](http://www.drupalcenter.de/handbuch)
 
 ### Elixir
 
@@ -205,6 +216,7 @@
 ### PHP
 
 * [PHP-Handbuch](https://secure.php.net/manual/de/) (CC by)
+* [PHP Handbuch](http://www.math.uni-hamburg.de/doc/php/php_manual_de.pdf) (pdf)
 * [PHP PEAR](http://openbook.rheinwerk-verlag.de/php_pear/)
 * [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) (pdf)
 
@@ -290,6 +302,10 @@
 
 * [wikibooks - SVG](https://de.wikibooks.org/wiki/SVG) (CC by-sa)
 
+### Typo3
+
+* [Das TYPO3 Handbuch](http://www.typo3-handbuch.net/)
+
 ### Unix
 
 * [Wie werde ich UNIX-Guru?](http://openbook.rheinwerk-verlag.de/unix_guru/)
@@ -310,6 +326,10 @@
 * [Windows Server 2008 R2](http://openbook.rheinwerk-verlag.de/windows_server_2008/)
 * [Integrationshandbuch Microsoft-Netzwerk](http://openbook.rheinwerk-verlag.de/microsoft_netzwerk/)
 * [VMware und Microsoft Virtual Server](http://openbook.rheinwerk-verlag.de/vmware/)
+
+### Wordpress
+
+* [Wordpress Handbuch](http://wordpress.lernenhoch2.de/handbuch/)
 
 ### Yaml
 
