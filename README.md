@@ -220,6 +220,13 @@
 * [PHP PEAR](http://openbook.rheinwerk-verlag.de/php_pear/)
 * [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) (pdf)
 
+### Processing
+
+* [processing - tutorial](https://lernprocessing.wordpress.com/2010/01/18/processing-links/)
+* [Programmieren lernen - Processing & Java](http://michaelkipp.de/processing/)
+* [Processing](http://tutorials.ralphammer.de/processing/)
+* [Creative Coding 1 - Processing](http://btk.tillnagel.com/creative-coding-1/) (CC by-nc-sa)
+
 ### Programmierung
 
 * [Objektorientierte Programmierung](http://openbook.rheinwerk-verlag.de/oop/)
