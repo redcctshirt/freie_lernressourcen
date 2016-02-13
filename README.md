@@ -244,6 +244,8 @@
 * [Wie ein Informatiker denken lernen ... mit Python](http://python4kids.net/how2think/index.htm)
 * [Das Python-Tutorium](http://starship.python.net/crew/gherman/publications/tut-de/tut-de-21.pdf) (pdf)
 * [Programmieren mit Python und Glade](http://www.florian-diesch.de/doc/python-und-glade/online/index.html) 
+* [Python und Blender](http://pymove3d.sudile.com/)
+* [Python und Blender](http://pymove3d.pysv.org/python_course/index.html)
 
 #### Django
 
