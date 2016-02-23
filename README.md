@@ -58,6 +58,8 @@
 * [Visual C# 2008](http://openbook.rheinwerk-verlag.de/visual_csharp/)
 * [Visual C# 2010](http://openbook.rheinwerk-verlag.de/visual_csharp_2010/)
 * [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012/)
+* [C# Tutorial](http://www.csharpme.de/)
+* [Guide to C#](http://www.guidetocsharp.de/Guide.aspx)
 
 ### CoffeeScript
 
