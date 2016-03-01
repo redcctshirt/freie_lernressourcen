@@ -30,6 +30,8 @@
 ### Arduino
 
 * [Arduino Tutorials](http://popovic.info/html/arduino/arduinoUno_1.html) (CC by-sa)
+* [Arduino](http://www.netzmafia.de/skripten/hardware/Arduino/index.html)
+* [Arduino Programmier-Handbuch](http://www.netzmafia.de/skripten/hardware/Arduino/Arduino_Programmierhandbuch.pdf) (pdf)
 
 ### bash
 
@@ -45,13 +47,16 @@
 * [wikibooks - GTK mit Builder](https://de.wikibooks.org/wiki/GTK_mit_Builder) (CC by-sa)
 * [C von A bis Z](http://openbook.rheinwerk-verlag.de/c_von_a_bis_z/)
 * [Softwareentwicklung in C](http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) (pdf)
+* [Programmieren in C](http://www.netzmafia.de/skripten/programmieren/index.html)
 
 ### C++
 
 * [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung/index.html) (CC by-nc-nd)
 * [Programmieren in C++: Aufbau](http://www.highscore.de/cpp/aufbau/) (CC by-nc-nd)
+* [C++ Tutor](http://www.cpp-tutor.de/cpp/hinweise.html)
+* [C++-Programmierung](https://de.wikibooks.org/wiki/C%2B%2B-Programmierung) (CC by-sa)
 
-### C#
+### C-Sharp
 
 * [Lerne X in Y Minuten - C#](https://learnxinyminutes.com/docs/de-de/csharp-de/) (CC by-sa)
 * [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung/index.html) (CC by-nc-nd)
@@ -125,6 +130,8 @@
 * [wikibooks - Websiteentwicklung: XHTML](https://de.wikibooks.org/wiki/Websiteentwicklung:_XHTML) (CC by-sa)
 * [selfhtml - HTML](https://wiki.selfhtml.org/wiki/HTML) (CC by-sa)
 * [HTML5-Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch)
+* [HTML - ganz easy](http://www.netzmafia.de/skripten/easyhtml/index.html)
+* [Webdesign](http://www.netzmafia.de/skripten/webdesign/index.html)
 
 ### iOS
 
@@ -137,6 +144,9 @@
 * [Programmieren in Java: Aufbau](http://www.highscore.de/java/aufbau/index.html) (CC by-nc-nd)
 * [Java 7 - Mehr als eine Insel](http://openbook.rheinwerk-verlag.de/java7/)
 * [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel/)
+* [Programmierkurs Java](http://www.programmierkurs-java.de/) 
+* [Java Tutorial interaktiv — Programmieren lernen mit Java](http://www.gailer-net.de/tutorials/java/index.html)
+* [Spieleprogrammierung in Java](http://www.petrastumpf.de/michael/Wissen/SpieleprogrammierungInJava.pdf)
 
 ### Javascript
 
@@ -146,6 +156,7 @@
 * [selfhtml - JavaScript](https://wiki.selfhtml.org/wiki/JavaScript) (CC by-sa)
 * [Webseiten erstellen mit Javascript](http://www.highscore.de/javascript/index.html) (CC by-nc-nd)
 * [JavaScript und AJAX](http://openbook.rheinwerk-verlag.de/javascript_ajax/)
+* [Einführung in Javascript](http://www.netzmafia.de/skripten/javascript/index.html)
 
 ### Joomla
 
@@ -160,6 +171,7 @@
 * [Lerne X in Y Minuten - Latex](https://learnxinyminutes.com/docs/de-de/latex-de/) (CC by-sa)
 * [Latex - eine Einführung und ein bisschen mehr ...](https://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf) (pdf)
 * [Latex - Fortgeschrittene Anwendungen](https://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf) (pdf)
+* [Kurze Einfuhrung in die Textformatierung mit dem LATEX-Satzsystem](http://www.netzmafia.de/skripten/LaTeX/latex.pdf) (pdf)
 
 ### LibreOffice
 
@@ -185,6 +197,10 @@
 * [Linux](http://openbook.rheinwerk-verlag.de/linux/)
 * [Ubuntu GNU/Linux](http://openbook.rheinwerk-verlag.de/ubuntu_1104/)
 * [Ubuntu GNU/Linux](http://openbook.rheinwerk-verlag.de/ubuntu_1004/)
+* [UNIX-Netzwerk-Tools](http://www.netzmafia.de/skripten/unixtools/index.html)
+* [Betriebssystem UNIX/Linux](http://www.netzmafia.de/skripten/unix/index.html)
+* [PC-Schnittstellen unter Linux](http://www.netzmafia.de/skripten/hardware/PC-Schnittstellen/index.html)
+* [Webcam am Linux-Rechner](http://www.netzmafia.de/skripten/hardware/Webcam/index.html)
 
 ### Markdown
 
@@ -215,6 +231,10 @@
 
 * [wikibooks - GNU-Pascal in Beispielen](https://de.wikibooks.org/wiki/GNU-Pascal_in_Beispielen) (CC by-sa)
 
+### Perl
+
+* [Grundlagen CGI-Programmierung mit Perl](http://www.netzmafia.de/skripten/perl/index.html)
+
 ### PHP
 
 * [PHP-Handbuch](https://secure.php.net/manual/de/) (CC by)
@@ -228,12 +248,15 @@
 * [Programmieren lernen - Processing & Java](http://michaelkipp.de/processing/)
 * [Processing](http://tutorials.ralphammer.de/processing/)
 * [Creative Coding 1 - Processing](http://btk.tillnagel.com/creative-coding-1/) (CC by-nc-sa)
+* [ArduSmartPilot: Android Programmierung mit Processing](http://www.tec.reutlingen-university.de/uploads/media/ArduSmartPilotProcessing_200215.pdf) (pdf)
 
 ### Programmierung
 
 * [Objektorientierte Programmierung](http://openbook.rheinwerk-verlag.de/oop/)
 * [Linux-UNIX-Programmierung](http://openbook.rheinwerk-verlag.de/linux_unix_programmierung/)
 * [Shell-Programmierung](http://openbook.rheinwerk-verlag.de/shell_programmierung/)
+* [Netzwerk-Programmierung](http://www.netzmafia.de/skripten/inetprog/index.html)
+* [Algorithmen und Datenstrukturen](http://www.netzmafia.de/skripten/buecher/perl/algorithmen.pdf) (pdf)
 
 ### Python
 
@@ -268,6 +291,7 @@
 * [Minecraft Pi](http://minecraft.coredump.ch/) (CC by-sa)
 * [GAMING MIT DEM RASPBERRY PI](http://www.medienistik.de/Themenheft_Next_Level.pdf) (pdf - CC by-sa)
 * [UNTERRICHTEN MIT DEM RASPBERRY PI](http://www.medienistik.de/Themenheft_RaspberryPi.pdf) (pdf - CC by-sa)
+* [Raspberry Pi und Linux](http://www.netzmafia.de/skripten/hardware/RasPi/index.html)
 
 ### Ruby
 
@@ -295,6 +319,10 @@
 ### Scilab
 
 * [Einführung in SCILAB/XCOS5.4](http://www.buech-gifhorn.de/scilab/Einfuehrung.pdf) (pdf)
+
+### SDL
+
+* [SDL-Tutorial](https://www.spieleprogrammierer.de/wiki/SDL-Tutorial) (CC by-sa)
 
 ### sed
 
@@ -354,6 +382,20 @@
 * [Das Praxisbuch HDR-Fotografie](http://openbook.rheinwerk-verlag.de/hdr_fotografie/)
 * [Excel 2007 - Das umfassende Handbuch](http://openbook.rheinwerk-verlag.de/excel_2007/)
 * [Dreamweaver 8](http://openbook.rheinwerk-verlag.de/dreamweaver8/)
+* [Datenkommunikation](http://www.netzmafia.de/skripten/modem/index.html)
+* [Grundlagen Computernetze](http://www.netzmafia.de/skripten/netze/index.html)
+* [Internet](http://www.netzmafia.de/skripten/internet/index.html)
+* [Suchen im Internet](http://www.netzmafia.de/skripten/suchen/index.html)
+* [Sicherheit in Netzen](http://www.netzmafia.de/skripten/sicherheit/index.html)
+* [Mikrocomputertechnik](http://www.netzmafia.de/skripten/mikrocomputer/index.html)
+* [Betriebssysteme](http://www.netzmafia.de/skripten/bs/index.html)
+* [Kurze Einführung in MS-DOS](http://www.netzmafia.de/skripten/bs/dos.html)
+* [Mikrocontroller, Hardware, PC und Linux](http://www.netzmafia.de/skripten/hardware/index.html)
+* [Digitaltechnik](http://www.netzmafia.de/skripten/digitaltechnik/index.html)
+* [Mikrocomputertechnik](http://www.netzmafia.de/skripten/mikrocomputer/index.html)
+* [Mikrocontrollerperipherie](http://www.netzmafia.de/skripten/hardware/Control/index.html)
+* [Einführung Datenverarbeitungssysteme](http://www.netzmafia.de/skripten/dvs/index.html)
+* [Telefon- und ISDN-Installation](http://www.netzmafia.de/skripten/telefon/index.html)
 
 ## englische Sammlungen
 
@@ -362,5 +404,4 @@
 * [Devdocs](https://devdocs.io/)
 * [List of Free Learning Resources](https://github.com/vhf/free-programming-books)
 
-
-Lizenz: Creative Commons Zero 1.0
+README.md Lizenz: Creative Commons Zero 1.0
