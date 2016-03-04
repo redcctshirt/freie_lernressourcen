@@ -132,6 +132,7 @@
 * [HTML5-Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch)
 * [HTML - ganz easy](http://www.netzmafia.de/skripten/easyhtml/index.html)
 * [Webdesign](http://www.netzmafia.de/skripten/webdesign/index.html)
+* [planethtml.de](http://www.planethtml.de/html/)
 
 ### iOS
 
