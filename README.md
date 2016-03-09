@@ -243,6 +243,10 @@
 * [PHP PEAR](http://openbook.rheinwerk-verlag.de/php_pear/)
 * [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) (pdf)
 
+### PostgreSQL
+
+* [PostgreSQL: Das offizielle Handbuch](http://www.postgresql.sk/docs/books/pghandbuch.html.de)
+
 ### Processing
 
 * [processing - tutorial](https://lernprocessing.wordpress.com/2010/01/18/processing-links/)
