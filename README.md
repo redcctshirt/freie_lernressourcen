@@ -276,6 +276,7 @@
 * [Programmieren mit Python und Glade](http://www.florian-diesch.de/doc/python-und-glade/online/index.html) 
 * [Python und Blender](http://pymove3d.sudile.com/)
 * [Python und Blender](http://pymove3d.pysv.org/python_course/index.html)
+* [Schlangengerangel für Kinder](http://python-verband.org/informieren/news/schlangengerangel-fuer-kinder)
 
 #### Django
 
