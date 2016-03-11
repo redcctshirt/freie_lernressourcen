@@ -202,6 +202,8 @@
 * [Betriebssystem UNIX/Linux](http://www.netzmafia.de/skripten/unix/index.html)
 * [PC-Schnittstellen unter Linux](http://www.netzmafia.de/skripten/hardware/PC-Schnittstellen/index.html)
 * [Webcam am Linux-Rechner](http://www.netzmafia.de/skripten/hardware/Webcam/index.html)
+* [Deutsches Linux HOWTO Projekt](http://www.linuxhaven.de/dlhp/) 
+* [SUSE Documentation](https://www.suse.com/de-de/documentation/)
 
 ### Markdown
 
