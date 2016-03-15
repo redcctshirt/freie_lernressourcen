@@ -173,6 +173,8 @@
 * [Latex - eine Einführung und ein bisschen mehr ...](https://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf) (pdf)
 * [Latex - Fortgeschrittene Anwendungen](https://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf) (pdf)
 * [Kurze Einfuhrung in die Textformatierung mit dem LATEX-Satzsystem](http://www.netzmafia.de/skripten/LaTeX/latex.pdf) (pdf)
+* [Der Latex-Index](http://www.weinelt.de/latex/)
+* [LaTeX-Kurs](http://lefti.amigager.de/latex/index.html)
 
 ### LibreOffice
 
