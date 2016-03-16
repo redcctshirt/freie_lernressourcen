@@ -282,6 +282,11 @@
 * [Python und Blender](http://pymove3d.pysv.org/python_course/index.html)
 * [Schlangengerangel für Kinder](http://python-verband.org/informieren/news/schlangengerangel-fuer-kinder)
 
+#### bottle
+
+* [ubuntuusers.de - Bottle](https://wiki.ubuntuusers.de/Bottle/)
+* [freiesmagazin.de - Bottle - Ein WSGI-Microframework für Python](http://www.freiesmagazin.de/mobil/freiesMagazin-2011-02-bilder.html#11_02_bottle)
+
 #### Django
 
 * [Django Workshop](http://www.django-workshop.de/) (CC by-sa)
@@ -290,6 +295,10 @@
 #### pygame
 
 * [Pygame-Tutorial](https://www.spieleprogrammierer.de/wiki/Pygame-Tutorial) (CC by-sa)
+
+#### web.py
+
+* [web.py 0.2 tutorial](http://webpy.org/tutorial2.de)
 
 ### R
 
