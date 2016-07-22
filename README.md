@@ -423,4 +423,4 @@
 * [Devdocs](https://devdocs.io/)
 * [List of Free Learning Resources](https://github.com/vhf/free-programming-books)
 
-README.md Lizenz: Creative Commons Zero 1.0
+README.md Lizenz: https://creativecommons.org/publicdomain/zero/1.0/deed.de
