@@ -16,6 +16,12 @@
 * [Android - Grundlagen und Programmierung](http://www.dpunkt.de/ebooks_files/free/3436.pdf) (pdf)
 * [Android 2 - Grundlagen und Programmierung](http://dpunkt.de/openbooks/3540.pdf) (pdf)
 
+### angularjs
+
+* [AngularJS Online-Buch](https://angularjs.de/buecher/angularjs-buch)
+* [AngularJS-Tutorial für Einsteiger](https://angularjs.de/artikel/angularjs-tutorial-deutsch)
+* [Angular 2 Tutorial für Einsteiger](https://angularjs.de/artikel/angular2-tutorial-deutsch)
+
 ### Apache
 
 * [Dokumentation zum Apache HTTP Server Version 2.2](https://httpd.apache.org/docs/2.2/de/)
@@ -133,6 +139,11 @@
 * [HTML - ganz easy](http://www.netzmafia.de/skripten/easyhtml/index.html)
 * [Webdesign](http://www.netzmafia.de/skripten/webdesign/index.html)
 * [planethtml.de](http://www.planethtml.de/html/)
+
+### Ionic
+
+* [Ionic Framework Tutorial - hybride Apps](https://angularjs.de/artikel/ionic-tutorial-deutsch)
+* [Ionic 2 Tutorial - Hybride Apps 2.0](https://angularjs.de/artikel/ionic2-tutorial-deutsch)
 
 ### iOS
 
