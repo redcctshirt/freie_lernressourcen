@@ -338,6 +338,10 @@
 * [Ruby on Rails 2](http://openbook.rheinwerk-verlag.de/ruby_on_rails/)
 * [Ruby on Rails 3.2 für Ein-, Um- und Quereinsteiger](http://ruby-auf-schienen.de/3.2/)
 
+### Rust
+
+* [Die Programmiersprache Rust](https://rust-lang-de.github.io/rustbook-de/index.html)
+
 ### Samba
 
 * [Samba](http://www.oreilly.de/german/freebooks/samba2ger/)
