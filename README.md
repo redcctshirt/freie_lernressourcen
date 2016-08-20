@@ -54,6 +54,7 @@
 * [C von A bis Z](http://openbook.rheinwerk-verlag.de/c_von_a_bis_z/)
 * [Softwareentwicklung in C](http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) (pdf)
 * [Programmieren in C](http://www.netzmafia.de/skripten/programmieren/index.html)
+* [wikibooks - C-Programmierung](https://de.wikibooks.org/wiki/C-Programmierung)
 
 ### C++
 
