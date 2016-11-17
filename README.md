@@ -244,6 +244,10 @@
 * [Open Source - kurz & gut](http://www.oreilly.de/german/freebooks/os_tb/)
 * [Mit Open Source-Tools Spam & Viren bekämpfen](http://www.oreilly.de/german/freebooks/spamvirger/)
 
+### OSM - OpenStreetMap
+
+* [learnOSM](http://learnosm.org/de/) (CC Zero)
+
 ### Pascal
 
 * [wikibooks - GNU-Pascal in Beispielen](https://de.wikibooks.org/wiki/GNU-Pascal_in_Beispielen) (CC by-sa)
