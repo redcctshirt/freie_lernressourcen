@@ -106,6 +106,7 @@
 
 * [Lerne X in Y Minuten - git](https://learnxinyminutes.com/docs/de-de/git-de/) (CC by-sa)
 * [Pro Git book](https://git-scm.com/book/de/v1) (CC by-nc-sa)
+* [Das Git-Buch](http://gitbu.ch/pr01.html) (CC by-nc-sa)
 
 ### Go
 
