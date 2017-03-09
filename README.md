@@ -38,6 +38,7 @@
 * [Arduino Tutorials](http://popovic.info/html/arduino/arduinoUno_1.html) (CC by-sa)
 * [Arduino](http://www.netzmafia.de/skripten/hardware/Arduino/index.html)
 * [Arduino Programmier-Handbuch](http://www.netzmafia.de/skripten/hardware/Arduino/Arduino_Programmierhandbuch.pdf) (pdf)
+* [Python.Processing.Arduino](https://www.python-processing-arduino.de/) (CC by-sa)
 
 ### bash
 
@@ -275,6 +276,7 @@
 * [Processing](http://tutorials.ralphammer.de/processing/)
 * [Creative Coding 1 - Processing](http://btk.tillnagel.com/creative-coding-1/) (CC by-nc-sa)
 * [ArduSmartPilot: Android Programmierung mit Processing](http://www.tec.reutlingen-university.de/uploads/media/ArduSmartPilotProcessing_200215.pdf) (pdf)
+* * [Python.Processing.Arduino](https://www.python-processing-arduino.de/) (CC by-sa)
 
 ### Programmierung
 
@@ -298,6 +300,7 @@
 * [Python und Blender](http://pymove3d.sudile.com/)
 * [Python und Blender](http://pymove3d.pysv.org/python_course/index.html)
 * [Schlangengerangel für Kinder](http://python-verband.org/informieren/news/schlangengerangel-fuer-kinder)
+* [Python.Processing.Arduino](https://www.python-processing-arduino.de/) (CC by-sa)
 
 #### bottle
 
