@@ -276,7 +276,8 @@
 * [Processing](http://tutorials.ralphammer.de/processing/)
 * [Creative Coding 1 - Processing](http://btk.tillnagel.com/creative-coding-1/) (CC by-nc-sa)
 * [ArduSmartPilot: Android Programmierung mit Processing](http://www.tec.reutlingen-university.de/uploads/media/ArduSmartPilotProcessing_200215.pdf) (pdf)
-* * [Python.Processing.Arduino](https://www.python-processing-arduino.de/) (CC by-sa)
+* [Python.Processing.Arduino](https://www.python-processing-arduino.de/) (CC by-sa)
+* [Processing.py lernen](http://py.kantel-chaos-team.de/) (CC by-nc-sa)
 
 ### Programmierung
 
@@ -319,6 +320,10 @@
 #### web.py
 
 * [web.py 0.2 tutorial](http://webpy.org/tutorial2.de)
+
+#### Processing.py
+
+* [Processing.py lernen](http://py.kantel-chaos-team.de/) (CC by-nc-sa)
 
 ### R
 
