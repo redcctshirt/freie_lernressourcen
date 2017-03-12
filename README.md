@@ -142,6 +142,7 @@
 * [HTML - ganz easy](http://www.netzmafia.de/skripten/easyhtml/index.html)
 * [Webdesign](http://www.netzmafia.de/skripten/webdesign/index.html)
 * [planethtml.de](http://www.planethtml.de/html/)
+* [Einführung in XHTML, CSS und Webdesign](http://archiv.jendryschik.de/einfuehrung/4.0.2/jendryschik.de/wsdev/einfuehrung/)
 
 ### Ionic
 
