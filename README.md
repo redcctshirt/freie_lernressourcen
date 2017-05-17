@@ -39,6 +39,7 @@
 * [Arduino](http://www.netzmafia.de/skripten/hardware/Arduino/index.html)
 * [Arduino Programmier-Handbuch](http://www.netzmafia.de/skripten/hardware/Arduino/Arduino_Programmierhandbuch.pdf) (pdf)
 * [Python.Processing.Arduino](https://www.python-processing-arduino.de/) (CC by-sa)
+* [senseBox:edu](https://edu.books.sensebox.de/de/) (CC by-sa)
 
 ### bash
 
