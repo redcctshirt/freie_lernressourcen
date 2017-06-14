@@ -22,6 +22,10 @@
 * [Getting Started With PyGame (3): Sprites und Klassen](http://blog.schockwellenreiter.de/2016/05/2016052405.html)
 * [Getting Started With PyGame (4): SpaceCute](http://blog.schockwellenreiter.de/2016/05/2016052606.html)
 
+### Rust
+
+* [Ratespiel](https://rust-lang-de.github.io/rustbook-de/book/Ratespiel.html)
+
 ### Scratch
 
 * [Scratch-2-Tutorial](http://www.freiesmagazin.de/mobil/freiesMagazin-2014-03-bilder.html#fm_14_03_scratch2_tutorial) (CC by-sa)
