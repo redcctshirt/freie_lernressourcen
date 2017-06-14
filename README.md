@@ -380,6 +380,10 @@
 
 * [sed Tutorium](https://tty1.net/sed-tutorium/index.html) (CC by-sa) 
 
+### Spiele
+
+* [Spiele-Tutorials](spiele.md)
+
 ### SQL
 
 * [Das SQL*Plus Tutorial](http://www.dieletztedomain.de/das-sqlplus-tutorial/) (CC by)
