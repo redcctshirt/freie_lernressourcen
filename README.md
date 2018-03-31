@@ -76,6 +76,11 @@
 * [C# Tutorial](http://www.csharpme.de/)
 * [Guide to C#](http://www.guidetocsharp.de/Guide.aspx)
 
+### Calliope mini
+
+* [Projekte für Calliope mini](https://calliope.cc/projekte)
+* [Programmieren lernen mit dem Calliope mini](http://calliopemini.info/) (CC by-sa)
+
 ### CoffeeScript
 
 * [Lerne X in Y Minuten - CoffeeScript](https://learnxinyminutes.com/docs/de-de/coffeescript-de/) (CC by-sa)
