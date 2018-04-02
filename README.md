@@ -174,6 +174,7 @@
 
 ### Javascript
 
+* [JavaScript Hero](http://www.jshero.net/main.html)
 * [opentechschool - Javascript](https://opentechschool.github.io/js-beginners-4h-workshop-1/index_de.html)
 * [opentechschool - Javascript 2](https://opentechschool.github.io/js-beginners-day2/index_de.html)
 * [Lerne X in Y Minuten - Javascript](https://learnxinyminutes.com/docs/de-de/javascript-de/) (CC by-sa)
