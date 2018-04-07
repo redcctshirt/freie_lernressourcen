@@ -41,6 +41,7 @@
 * [Python.Processing.Arduino](https://www.python-processing-arduino.de/) (CC by-sa)
 * [senseBox:edu](https://edu.books.sensebox.de/de/) (CC by-sa)
 * [Kidskurs - WERDE HARDWARE-CODER!](http://starthardware.org/) (CC by-sa)
+* [Arduino lernen leicht gemacht](http://funduino.de/vorwort) (CC by-nc-nd)
 
 ### bash
 
@@ -171,6 +172,7 @@
 * [Programmierkurs Java](http://www.programmierkurs-java.de/) 
 * [Java Tutorial interaktiv — Programmieren lernen mit Java](http://www.gailer-net.de/tutorials/java/index.html)
 * [Spieleprogrammierung in Java](http://www.petrastumpf.de/michael/Wissen/SpieleprogrammierungInJava.pdf)
+* [Java-Hamster ebooks](http://www.boles.de/hamster/index2.html)
 
 ### Javascript
 
@@ -302,7 +304,7 @@
 * [Programmiereinführung mit Python](https://opentechschool.github.io/python-beginners/de/index.html) (CC by-sa)
 * [Lerne X in Y Minuten - Python](https://learnxinyminutes.com/docs/de-de/python-de/) (CC by-sa)
 * [wikibooks - Python unter Linux](https://de.wikibooks.org/wiki/Python_unter_Linux) (CC by-sa)
-* [Python, Programmieren macht Spaß](http://www.thomas-guettler.de/vortraege/python/einfuehrung.html#link_25)
+* [Python, Programmieren macht Spaß](http://www.thomas-guettler.de/vortraege/python/einfuehrung.html)
 * [Python-Kurs](http://www.python-kurs.eu/index.php)
 * [Das Python-Tutorial](https://py-tutorial-de.readthedocs.org/de/python-3.3/index.html)
 * [Wie ein Informatiker denken lernen ... mit Python](http://python4kids.net/how2think/index.htm)
